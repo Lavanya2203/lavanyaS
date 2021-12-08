@@ -101,4 +101,58 @@ margin-right:7px;
 
 #header
 {
-background-color:oran
+background-color:orange
+background=size:cover;
+}
+
+#header p
+{
+font-size:25px;
+color:red;
+padding-top:5px;
+margin:0;
+font-weight:bold;
+text-align:center;
+}
+
+
+From Sheetal Gajbhiye to Everyone 03:04 PM
+Learning together,growing together"</p>
+</div>
+
+
+<div class="section">
+<h1 id=work><span>My Project</span></h1>
+<div class="gallery item">
+<img class="gallery-image" src=C:"\Users\irg\Desktop\download.png" alt="Image processing using matlab">
+</div>
+
+<div class="gallery item">
+<img class="gallery-image" src=C:"\Users\irg\Desktop\download(1).png" alt="Led glow exersice">
+</div>
+    </div>
+
+   
+<div class="section">
+     <h1 id=Skills><span>My skills</span></h1>
+ <ul>
+ <li>Html</li><br>
+ <li>C++</li><br>
+ <li>Selenium Testing</li><br>
+ <li>Java</li><br>
+ </ul>
+</div>
+
+
+<div class="section">
+<h1 id=Contact><span>Contact Details</span></h1>
+<form action="mailto:rsheetalgajbhiye@gmail.com" method="post" enctype="text/plain">
+<input name="name" placeholder="Name" type="text" required/><br>
+<input name="email" placeholder="Email" type="email" required/><br>
+<textarea name="message" placeholder="Message" required></textarea><br>
+<input type="submit" value="send" class="submit"/>
+</form>
+
+</div>
+
+<div class="section"
